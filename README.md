@@ -22,7 +22,7 @@ Execute Django admin and create details for 10 books
 ## PROGRAM
 
 ## OUTPUT
-(image.png)
+![alt text](<Screenshot 2025-03-21 111334.png>)
 
 ## RESULT
 Thus the program for creating movies database using ORM hass been executed successfully
